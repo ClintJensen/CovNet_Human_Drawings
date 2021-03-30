@@ -1,12 +1,11 @@
-# Draw-a-Person analysis scripts
+# Draw-a-Person analysis and assembly scripts for NEXT and CovNet
 
-Directory containing scripts to predict age-group and age-years from VGG19 feature vectors  
+Directory containing scripts to predict aspects of human participants (e.g., age-group and age-years) from NEXT embeddings and VGG19 feature vectors  
 
 ## Prerequisites
-Tested on Linux/Debian distro. It may run in MacOS  
-Otherwise, use Colab to run  
+Use Colab to run  
 
-Main libraries:
+CovNet Main libraries:
 - Tensorflow 1.13.1
 - Talos 0.4.9
 - scikit-learn, scipy, seaborn, pandas, numpy  
