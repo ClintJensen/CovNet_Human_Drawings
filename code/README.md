@@ -14,8 +14,8 @@ CovNet Main libraries:
 
 **The following scripts are currently unable to be moved to CovNet folder**:  
 
-- ```CovNet_VGG-19_Drawings_block5_pool_all.ipynb
-- ```hclustering_block5_layer_all_kids_257.ipynb```: hierarchical clustering of images based on vector-features extracted with VGG-19
+- ```CovNet_VGG-19_Drawings_block5_pool_all.ipynb```
+- ```CovNet_VGG-19_Drawings_block5_pool_kids.ipynb```
 - ```hyper_opt_kids_age_prediction_227.ipynb```: hyper-optimization experiment for age (in years) prediction
 
 
