@@ -1,4 +1,4 @@
-# Draw-a-Person analysis scripts
+# Draw-a-Person CovNet analysis scripts
 
 Directory containing scripts to predict age-group and age-years from VGG19 feature vectors  
 
