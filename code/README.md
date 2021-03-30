@@ -12,9 +12,9 @@ CovNet Main libraries:
 
 ## Scripts/Files
 
-**The following scripts are updated and can be used as they are**:  
+**The following scripts are currently unable to be moved to CovNet folder**:  
 
-- ```dap_feature_extraction_all_kids_257.ipynb```: extraction of vector-features from (full sample) kids' drawings using VGG-19 in the last fully connected layer
+- ```CovNet_VGG-19_Drawings_block5_pool_all.ipynb
 - ```hclustering_block5_layer_all_kids_257.ipynb```: hierarchical clustering of images based on vector-features extracted with VGG-19
 - ```hyper_opt_kids_age_prediction_227.ipynb```: hyper-optimization experiment for age (in years) prediction
 
