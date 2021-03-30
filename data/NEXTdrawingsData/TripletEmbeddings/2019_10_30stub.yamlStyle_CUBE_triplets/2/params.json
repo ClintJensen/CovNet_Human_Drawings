@@ -1,0 +1,16 @@
+{
+    "ActiveLearningMethod": "mds", 
+    "epsilon": 1e-07, 
+    "max_iter_GD": 50, 
+    "max_norm": 0, 
+    "max_num_passes_SGD": 40, 
+    "mu": 0.01, 
+    "ndim": 3, 
+    "proportion": 1, 
+    "randomRestarts": 10, 
+    "responses": "stub.yamlStyle_CUBE_triplets.csv", 
+    "testcode": "Test", 
+    "traincode": "Train", 
+    "verbose": true, 
+    "version": "NEXTdrawings_CUBE_triplets"
+}
