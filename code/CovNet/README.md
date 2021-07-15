@@ -1,6 +1,6 @@
 # Draw-a-Person CovNet analysis scripts
 
-Directory containing scripts to predict age-group and age-years from VGG19 feature vectors  
+Directory containing Pablo's original scripts to predict age-group and age-years from VGG19 feature vectors  
 
 ## Prerequisites
 Tested on Linux/Debian distro. It may run in MacOS  
