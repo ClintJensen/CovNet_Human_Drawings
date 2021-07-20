@@ -1,6 +1,6 @@
 # Neural-Nets for age-prediction from features extracted from drawings with VGG19 architecture with weights pre-trained on ImageNet
-Original Author: Pablo Caceres Created: 04/01/19  Updated: 05/20/19
-Edited Scripts within this fork: Clint Jensen
+- Original Author: Pablo Caceres Created: 04/01/19  Updated: 05/20/19
+- Edited Scripts within this fork: Clint Jensen
 Updated: 07/20/21  
 ## Description  
 Repo containing images of human drawings from children and adults  
