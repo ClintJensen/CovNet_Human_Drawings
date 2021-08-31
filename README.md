@@ -1,4 +1,4 @@
-# Neural-Nets for prediction (age, gender, etc.) from features extracted from drawings with VGG19 architecture with weights pre-trained on ImageNet
+# Neural-Nets for prediction (age, gender, etc.) through features extracted from drawings with VGG19 architecture with weights pre-trained on ImageNet
 - Original Author: Pablo Caceres,  Created: 04/01/19,  Updated: 05/20/19
 - Edited Scripts within this fork: Clint Jensen, 
 Updated: 07/20/21  
