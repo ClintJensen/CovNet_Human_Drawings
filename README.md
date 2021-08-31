@@ -5,7 +5,7 @@ Updated: 07/20/21
 ## Description  
 Repo containing images of human drawings from children and adults  
 
-Here we use the VGG-19 ConvNet architecture with weights trained on ImageNet to extract features from intermediate layers. Such features are used to build and train a two neural-nets: (1) linear prediction of age; (2) binary classification of age (adult vs child). We compare the performance of the neural nets with a set of standard machine learning classifiers.
+Here we use the VGG-19 ConvNet architecture with weights trained on ImageNet to extract features from intermediate layers. Such features are used to build and train neural-nets. For example, linear prediction of age; binary classification of gender (male vs female). We compare the performance of the neural nets with a set of standard machine learning classifiers.
 
 ## Requirements
 - Tensorflow 1.13.1  
