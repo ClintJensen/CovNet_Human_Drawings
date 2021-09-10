@@ -15,8 +15,12 @@ Main libraries:
 
 **The following scripts are updated and can be used as they are**:  
 
-- ```ConvNet_VGG_19_Drawings_fc2_Clint.ipynb```: extraction of vector-features from (full sample) kids and adult drawings using VGG-19 in the last fully connected layer
-- ```ConvNet_VGG_19_Drawings_305_Clint.ipynb```: early version of extraction of vector-features from (full sample) kids and adult drawings using VGG-19 in the last fully connected layer
+- ```ConvNet_VGG-19_Drawings_fc1.ipynb```: extraction of vector-features from DAP images taken from DAM study 1&3 kids and adult drawings using VGG-19 in the first fully connected layer
+- ```ConvNet_VGG-19_Drawings_fc2.ipynb```: extraction of vector-features from DAP images taken from DAM study 1&3 kids and adult drawings using VGG-19 in the last fully connected layer
+- ```ConvNet_VGG-19_Drawings_block5.ipynb```: extraction of vector-features from DAP images taken from DAM study 1&3 kids and adult drawings using VGG-19 in the last convolutional layer
+
+
+- ```ConvNet_VGG_19_Drawings_305_Clint.ipynb```: early version of extraction of vector-features from (full sample) kids and adult drawings using VGG-19 in the last fully connected layer. 305 refers to the number of images which differed from the number that Pablo used.
 
 
 ## Usage
