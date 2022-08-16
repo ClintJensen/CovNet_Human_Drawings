@@ -1,13 +1,11 @@
-# Neural-Nets for prediction (age, gender, etc.) through features extracted from drawings with VGG19 architecture with weights pre-trained on ImageNet
-- Original Author: Pablo Caceres,  Created: 04/01/19,  Updated: 05/20/19
-- Edited Scripts within this fork: Clint Jensen, 
-Updated: 07/20/21  
+# Neural-Nets for prediction (age, gender, ASQ, etc.) through features extracted from drawings with VGG19 architecture with weights pre-trained on ImageNet
+- Original VGG-19 Script Author: Pablo Caceres,  Created: 04/01/19,  Updated: 05/20/19
+- Edited and addtional scripts within this fork: Clint Jensen, Updated: 08/15/22
 ## Description  
 Repo containing images of human drawings from children and adults  
 
-Here we use the VGG-19 ConvNet architecture with weights trained on ImageNet to extract features from intermediate layers. Such features are used to build and train neural-nets. Predictions from this data include: linear prediction of age; binary classification of gender (male vs female); participants physical dexterity based on multi-dimensional scaling clusters.
+In a collection of studies we use the VGG-19 ConvNet architecture with weights trained on ImageNet to extract features from intermediate layers. Such features are used to build and train neural-nets. Predictions from this data include: linear prediction of age, binary classification of gender (male vs female), and participants physical dexterity based on dimensionality reduction.
 
-We compare the performance of the neural nets with a set of standard machine learning classifiers.
 
 ## Requirements
 - Tensorflow 1.13.1  
