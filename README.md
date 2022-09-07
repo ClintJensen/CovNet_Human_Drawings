@@ -1,6 +1,6 @@
 # Neural-Nets for prediction (age, gender, ASQ, etc.) through features extracted from drawings with VGG19 architecture with weights pre-trained on ImageNet
 - Original VGG-19 Script Author: Pablo Caceres,  Created: 04/01/19,  Updated: 05/20/19
-- Edited and addtional scripts within this fork: Clint Jensen, Updated: 08/15/22
+- Edited and added additional scripts within this fork: Clint Jensen, Updated: 08/15/22
 ## Description  
 Repo containing images of human drawings from children and adults  
 
