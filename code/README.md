@@ -5,7 +5,7 @@ Directory containing scripts to predict aspects of human participants (e.g., age
 ## Prerequisites
 Use Colab to run  
 
-CovNet Main libraries:
+ConvNet Main libraries:
 - Tensorflow 1.13.1
 - Talos 0.4.9
 - scikit-learn, scipy, seaborn, pandas, numpy  
