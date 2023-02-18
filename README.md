@@ -4,7 +4,7 @@
 ## Description  
 Repo containing images of human drawings from children and adults  
 
-In a collection of studies we use the VGG-19 ConvNet architecture with weights trained on ImageNet to extract features from intermediate layers. Such features are used to build and train neural-nets. Predictions from this data include: linear prediction of age, binary classification of gender (male vs female), and participants physical dexterity based on dimensionality reduction.
+In a collection of studies we use the VGG-19 ConvNet architecture with weights trained on ImageNet to extract features from intermediate layers. Such features are used to build and train neural-nets. Predictions from this data include: linear prediction of age, binary classification of gender (male vs female), participants physical dexterity, and historically assessed IQ based on dimensionality reduction.
 
 
 ## Requirements
