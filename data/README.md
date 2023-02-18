@@ -6,6 +6,7 @@
 - **dap-metadata-kids**: clean metadata for classification/regression*
 - **edit-csv**: raw metadata and scripts to re-format  
 - **edit-filenames**: raw images and scripts to re-name  
+- **g1926edit_Processed450_256**: Images published in Goodenough (1926) Measurement of Intelligence by Drawings
 - **optimization-results**: results of optimization experiments  
 - **merged-dataframes-prediction**: csv files with the data to train the deep nets for both linear regression prediction and binary classification prediction
 - **vector-features**: csv files with the vectors/features extrated from the images from the VGG-19 CoVNet
