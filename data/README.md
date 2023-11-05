@@ -1,5 +1,5 @@
 # Contents
-- **DAP_Figures_Cleaned**: Human Figure Drawings used in Jensen, Sumanthiran, Kirkorian, Travers, Rosengren, & Rogers (in press) Human perception and machine vision reveal rich latent structure in human figure drawings, Frontiers in psychology, 14. doi/10.3389/fpsyg.2023.1029808
+- **DAP_Figures_Cleaned**: Human Figure Drawings used in Jensen, Sumanthiran, Kirkorian, Travers, Rosengren, & Rogers (2023) Human perception and machine vision reveal rich latent structure in human figure drawings, Frontiers in psychology, 14. doi/10.3389/fpsyg.2023.1029808
 - **cluster-dataframes**: csv files with the result of the hierarchical cluster applied to vector features extracted from the CoVNet. It contains a column with the drawing's id and one column with the cluster id
 - **dap-drawings-adults**: all the "Draw a person" drawings from the adult sample
 - **dap-drawings-all**: all the "Draw a person" drawings from the entire sample
