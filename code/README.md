@@ -1,4 +1,4 @@
-# Analysis and assembly scripts for ConvNet and NEXT Draw-a-Person (DAP) Cube, and Cylinder (CYL)
+# Analysis and assembly scripts for ConvNet and NEXT Draw-a-Person (DAP), Cube, and Cylinder (CYL)
 
 Directory containing scripts to predict aspects of human participants (e.g., age-group and age-years) from NEXT embeddings and VGG19 feature vectors  
 
